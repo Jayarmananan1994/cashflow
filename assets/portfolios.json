@@ -1,0 +1,193 @@
+[
+    {
+        "portfolioId": 1,
+        "cash": 2000,
+        "stocks": [],
+        "realEstate": [
+            {
+                "type": "4-Plex",
+                "cost": 90000,
+                "mortgage": 73000,
+                "downPayment": 17000,
+                "cashFlowPerMonth": 320
+            }
+        ]
+    },
+    {
+        "portfolioId": 2,
+        "cash": 23000,
+        "stocks": [],
+        "realEstate": []
+    },
+    {
+        "portfolioId": 3,
+        "cash": 3000,
+        "stocks": [
+            {
+                "name": "OK4U",
+                "pricePerShare": 15,
+                "quantity": 500
+            }
+        ],
+        "realEstate": [
+            {
+                "type": "DuPlex",
+                "cost": 48000,
+                "mortgage": 45000,
+                "downPayment": 3000,
+                "cashFlowPerMonth": 100
+            }
+        ]
+    },
+    {
+        "portfolioId": 4,
+        "cash": 12000,
+        "stocks": [
+            {
+                "name": "OK4U",
+                "pricePerShare": 15,
+                "quantity": 400
+            }
+        ],
+        "realEstate": [
+            {
+                "type": "DuPlex",
+                "cost": 46000,
+                "mortgage": 42000,
+                "downPayment": 4000,
+                "cashFlowPerMonth": 120
+            }
+        ]
+    },
+    {
+        "portfolioId": 5,
+        "cash": 12000,
+        "stocks": [
+            {
+                "name": "MYT4U",
+                "pricePerShare": 20,
+                "quantity": 100
+            },
+            {
+                "name": "OK4U",
+                "pricePerShare": 30,
+                "quantity": 200
+            }
+        ],
+        "realEstate": []
+    },
+    {
+        "portfolioId": 6,
+        "cash": 8000,
+        "stocks": [],
+        "realEstate": [
+            {
+                "type": "10 Acre vacant Land",
+                "cost": 20000,
+                "mortgage": 0,
+                "downPayment": 20000,
+                "cashFlowPerMonth": 0
+            }
+        ]
+    },
+    {
+        "portfolioId": 7,
+        "cash": 0,
+        "stocks": [
+            {
+                "name": "OK4U",
+                "pricePerShare": 20,
+                "quantity": 300
+            }
+        ],
+        "realEstate": [
+            {
+                "type": "Duplex",
+                "cost": 64000,
+                "mortgage": 56000,
+                "downPayment": 8000,
+                "cashFlowPerMonth": 300
+            }
+        ]
+    },
+    {
+        "portfolioId": 8,
+        "cash": 3000,
+        "stocks": [
+            {
+                "name": "MYT4U",
+                "pricePerShare": 5,
+                "quantity": 100
+            },
+            {
+                "name": "OK4U",
+                "pricePerShare": 10,
+                "quantity": 100
+            }
+        ],
+        "realEstate": []
+    },
+    {
+        "portfolioId": 9,
+        "cash": 3000,
+        "stocks": [],
+        "realEstate": [
+            {
+                "type": "4-Plex",
+                "cost": 110000,
+                "mortgage": 90000,
+                "downPayment": 20000,
+                "cashFlowPerMonth": 330
+            }
+        ]
+    },
+    {
+        "portfolioId": 10,
+        "cash": 5000,
+        "stocks": [
+            {
+                "name": "MYT4U",
+                "pricePerShare": 15,
+                "quantity": 300
+            }
+        ],
+        "realEstate": [
+            {
+                "type": "DuPlex",
+                "cost": 56000,
+                "mortgage": 49000,
+                "downPayment": 7000,
+                "cashFlowPerMonth": 210
+            }
+        ]
+    },
+    {
+        "portfolioId": 11,
+        "cash": 10000,
+        "stocks": [
+            {
+                "name": "MYT4U",
+                "pricePerShare": 20,
+                "quantity": 100
+            }
+        ],
+        "realEstate": []
+    },
+    {
+        "portfolioId": 12,
+        "cash": 0,
+        "stocks": [
+            {
+                "name": "MYT4U",
+                "pricePerShare": 40,
+                "quantity": 700
+            },
+            {
+                "name": "OK4U",
+                "pricePerShare": 50,
+                "quantity": 200
+            }
+        ],
+        "realEstate": []
+    }
+]

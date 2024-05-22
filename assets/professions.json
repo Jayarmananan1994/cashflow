@@ -1,0 +1,399 @@
+[
+    {
+        "profession":  "AIRLINE PILOT",
+        "income": {
+            "salary": 9500,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 9500,
+        "expenses": {
+            "taxes": 2350,
+            "mortgage_rent_pay": 1330,
+            "school_loan_pay": 0,
+            "car_payment": 300,
+            "credit_card_payment": 660,
+            "retail_payment": 50,
+            "per_child_expense": 480,
+            "other_expenses": 2210,
+            "child_expenses": 0,
+            "total_expenses": 6900
+        },
+        "monthly_cash_flow": 2600,
+        "assets": {
+            "savings": 400
+        },
+        "liabilities": {
+            "mortgage": 143000,
+            "school_loans": 0,
+            "car_loans": 15000,
+            "credit_cards": 22000,
+            "retail_debt": 1000
+        }
+    },    
+    {
+        "profession":  "BUSINESS MANAGER",
+        "income": {
+            "salary": 4600,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 4600,
+        "expenses": {
+            "taxes": 910,
+            "mortgage_rent_pay": 700,
+            "school_loan_pay": 60,
+            "car_payment": 120,
+            "credit_card_payment": 90,
+            "retail_payment": 50,
+            "per_child_expense": 240,
+            "other_expenses": 1000,
+            "child_expenses": 0,
+            "total_expenses": 2930
+        },
+        "monthly_cash_flow": 1670,
+        "liabilities": {
+            "mortgage": 75000,
+            "school_loans": 12000,
+            "car_loans": 6000,
+            "credit_cards": 3000,
+            "retail_debt": 1000
+        },
+        "assets": {
+            "savings": 400
+        }
+    },
+    {
+        "profession": "DOCTOR (MD)",
+        "income": {
+            "salary": 13200,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 13200,
+        "expenses": {
+            "taxes": 3420,
+            "mortgage_rent_pay": 1900,
+            "school_loan_pay": 750,
+            "car_payment": 380,
+            "credit_card_payment": 270,
+            "retail_payment": 50,
+            "per_child_expense": 640,
+            "other_expenses": 2880,
+            "child_expenses": 0,
+            "total_expenses": 9650
+        },
+        "monthly_cash_flow": 3550,
+        "assets": {
+            "savings": 400
+        },
+        "liabilities": {
+            "mortgage": 202000,
+            "school_loans": 150000,
+            "car_loans": 19000,
+            "credit_cards": 9000,
+            "retail_debt": 1000
+        }
+    },
+    {
+        "profession": "ENGINEER",
+        "income": {
+            "salary": 4900,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 4900,
+        "expenses": {
+            "taxes": 1050,
+            "mortgage_rent_pay": 700,
+            "school_loan_pay": 60,
+            "car_payment": 140,
+            "credit_card_payment": 120,
+            "retail_payment": 50,
+            "per_child_expense": 250,
+            "other_expenses": 1090,
+            "child_expenses": 0,
+            "total_expenses": 3210
+        },
+        "monthly_cash_flow": 1690,
+        "assets": {
+            "savings": 400
+        },
+        "liabilities": {
+            "mortgage": 75000,
+            "school_loans": 12000,
+            "car_loans": 7000,
+            "credit_cards": 4000,
+            "retail_debt": 1000
+        }
+    },
+    {
+        "profession": "JANITOR",
+        "income": {
+            "salary": 1600,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 1600,
+        "expenses": {
+            "taxes": 280,
+            "mortgage_rent_pay": 200,
+            "school_loan_pay": 0,
+            "car_payment": 60,
+            "credit_card_payment": 60,
+            "retail_payment": 50,
+            "per_child_expense": 70,
+            "other_expenses": 300,
+            "child_expenses": 0,
+            "total_expenses": 950
+        },
+        "monthly_cash_flow": 650,
+        "assets": {
+            "savings": 560
+        },
+        "liabilities": {
+            "mortgage": 20000,
+            "school_loans": 0,
+            "car_loans": 4000,
+            "credit_cards": 2000,
+            "retail_debt": 1000
+        }
+    },
+    {
+        "profession": "LAWYER",
+        "income": {
+            "salary": 7500,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 7500,
+        "expenses": {
+            "taxes": 1830,
+            "mortgage_rent_pay": 1100,
+            "school_loan_pay": 390,
+            "car_payment": 220,
+            "credit_card_payment": 180,
+            "retail_payment": 50,
+            "per_child_expense": 380,
+            "other_expenses": 1650,
+            "child_expenses": 0,
+            "total_expenses": 5420
+        },
+        "monthly_cash_flow": 2080,
+        "assets": {
+            "savings": 400
+        },
+        "liabilities": {
+            "mortgage": 115000,
+            "school_loans": 78000,
+            "car_loans": 11000,
+            "credit_cards": 6000,
+            "retail_debt": 1000
+        }
+    },
+    {
+        "profession": "MECHANIC",
+        "income": {
+            "salary": 2000,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 2000,
+        "expenses": {
+            "taxes": 360,
+            "mortgage_rent_pay": 300,
+            "school_loan_pay": 0,
+            "car_payment": 60,
+            "credit_card_payment": 60,
+            "retail_payment": 50,
+            "per_child_expense": 110,
+            "other_expenses": 450,
+            "child_expenses": 0,
+            "total_expenses": 1280
+        },
+        "monthly_cash_flow": 720,
+        "assets": {
+            "savings": 670
+        },
+        "liabilities": {
+            "mortgage": 31000,
+            "school_loans": 0,
+            "car_loans": 3000,
+            "credit_cards": 2000,
+            "retail_debt": 1000
+        }
+    },
+    {
+        "profession": "NURSE",
+        "income": {
+            "salary": 3100,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 3100,
+        "expenses": {
+            "taxes": 600,
+            "mortgage_rent_pay": 400,
+            "school_loan_pay": 30,
+            "car_payment": 100,
+            "credit_card_payment": 90,
+            "retail_payment": 50,
+            "per_child_expense": 170,
+            "other_expenses": 710,
+            "child_expenses": 0,
+            "total_expenses": 1980
+        },
+        "monthly_cash_flow": 1120,
+        "assets": {
+            "savings": 480
+        },
+        "liabilities": {
+            "mortgage": 47000,
+            "school_loans": 6000,
+            "car_loans": 5000,
+            "credit_cards": 3000,
+            "retail_debt": 1000
+        }
+    },
+    {
+        "profession": "POLICE OFFICER",
+        "income": {
+            "salary": 3000,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 3000,
+        "expenses": {
+            "taxes": 580,
+            "mortgage_rent_pay": 400,
+            "school_loan_pay": 0,
+            "car_payment": 100,
+            "credit_card_payment": 60,
+            "retail_payment": 50,
+            "per_child_expense": 160,
+            "other_expenses": 690,
+            "child_expenses": 0,
+            "total_expenses": 1880
+        },
+        "monthly_cash_flow": 1120,
+        "assets": {
+            "savings": 520
+        },
+        "liabilities": {
+            "mortgage": 46000,
+            "school_loans": 0,
+            "car_loans": 5000,
+            "credit_cards": 2000,
+            "retail_debt": 1000
+        }
+    },
+    {
+        "profession": "SECRETARY",
+        "income": {
+            "salary": 2500,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 2500,
+        "expenses": {
+            "taxes": 460,
+            "mortgage_rent_pay": 400,
+            "school_loan_pay": 0,
+            "car_payment": 80,
+            "credit_card_payment": 60,
+            "retail_payment": 50,
+            "per_child_expense": 140,
+            "other_expenses": 570,
+            "child_expenses": 0,
+            "total_expenses": 1620
+        },
+        "monthly_cash_flow": 880,
+        "assets": {
+            "savings": 710
+        },
+        "liabilities": {
+            "mortgage": 38000,
+            "school_loans": 0,
+            "car_loans": 4000,
+            "credit_cards": 2000,
+            "retail_debt": 1000
+        }
+    },
+    {
+        "profession": "TEACHER (K-12)",
+        "income": {
+            "salary": 3300,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 3300,
+        "expenses": {
+            "taxes": 630,
+            "mortgage_rent_pay": 500,
+            "school_loan_pay": 60,
+            "car_payment": 100,
+            "credit_card_payment": 90,
+            "retail_payment": 50,
+            "per_child_expense": 180,
+            "other_expenses": 760,
+            "child_expenses": 0,
+            "total_expenses": 2190
+        },
+        "monthly_cash_flow": 1110,
+        "assets": {
+            "savings": 400
+        },
+        "liabilities": {
+            "mortgage": 50000,
+            "school_loans": 12000,
+            "car_loans": 5000,
+            "credit_cards": 3000,
+            "retail_debt": 1000
+        }
+    },
+    {
+        "profession": "TRUCK DRIVER",
+        "income": {
+            "salary": 2500,
+            "interest": 0,
+            "dividends": 0
+        },
+        "passive_income": 0,
+        "total_income": 2500,
+        "expenses": {
+            "taxes": 460,
+            "mortgage_rent_pay": 400,
+            "school_loan_pay": 0,
+            "car_payment": 80,
+            "credit_card_payment": 60,
+            "retail_payment": 50,
+            "per_child_expense": 140,
+            "other_expenses": 570,
+            "child_expenses": 0,
+            "total_expenses": 1620
+        },
+        "monthly_cash_flow": 880,
+        "assets": {
+            "savings": 750
+        },
+        "liabilities": {
+            "mortgage": 38000,
+            "school_loans": 0,
+            "car_loans": 4000,
+            "credit_cards": 2000,
+            "retail_debt": 1000
+        }
+    }
+    
+]
